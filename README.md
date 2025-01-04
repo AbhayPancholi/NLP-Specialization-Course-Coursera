@@ -40,6 +40,7 @@ The repository is organized as follows:
 │   ├── Week_3/
 │   └── Week_4/
 └── README.md
+```
 
 ## 🛠 Technologies and Tools
 - Python: Core programming language used in the labs.
