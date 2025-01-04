@@ -40,3 +40,9 @@ The repository is organized as follows:
 │   ├── Week_3/
 │   └── Week_4/
 └── README.md
+
+## 🛠 Technologies and Tools
+- Python: Core programming language used in the labs.
+- NumPy and Pandas: For numerical and data manipulation tasks.
+- Matplotlib: For visualizations.
+- TensorFlow and Keras: For deep learning and sequence modeling tasks.
