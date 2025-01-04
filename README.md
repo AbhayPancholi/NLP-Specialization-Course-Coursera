@@ -58,7 +58,7 @@ The repository is organized as follows:
 ## 🚀 How to Use
 - Clone the repository
 ```plaintext
-git clone https://github.com/yourusername/nlp-specialization-labs.git
+[git clone https://github.com/yourusername/nlp-specialization-labs.git](https://github.com/AbhayPancholi/NLP-Specialization-Course-Coursera.git)
 ```
 - Navigate to the specific course and week to access the lab files.
 - Follow the instructions in each lab notebook to complete the assignments.
