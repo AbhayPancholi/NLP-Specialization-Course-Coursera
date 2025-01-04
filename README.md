@@ -42,11 +42,14 @@ The repository is organized as follows:
 └── README.md
 ```
 
+
 ## 🛠 Technologies and Tools
 - Python: Core programming language used in the labs.
 - NumPy and Pandas: For numerical and data manipulation tasks.
 - Matplotlib: For visualizations.
 - TensorFlow and Keras: For deep learning and sequence modeling tasks.
+
+
 
 ## 📋 Topics Covered
 - Text Preprocessing: Tokenization, stemming, lemmatization.
@@ -54,6 +57,8 @@ The repository is organized as follows:
 - Probabilistic Models: Hidden Markov Models (HMMs), Viterbi algorithm, POS tagging, and Named Entity Recognition (NER).
 - Sequence Models: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks.
 - Attention Mechanisms: Sequence-to-sequence models, transformers.
+
+
 
 ## 🚀 How to Use
 - Clone the repository
@@ -63,23 +68,33 @@ The repository is organized as follows:
 - Navigate to the specific course and week to access the lab files.
 - Follow the instructions in each lab notebook to complete the assignments.
 
+
+
 ## 🌐 Resources
 [Coursera: NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 [DeepLearning.AI](https://www.deeplearning.ai/)
 
 
+
 ## 📝 License
 This repository is for educational purposes only. Please refrain from sharing or submitting these solutions as your own work in the NLP Specialization.
+
+
 
 ## 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Email: abhaynagendrapancholi@gmail.com
+
 GitHub: [Click Here](https://github.com/AbhayPancholi)
+
+
 
 ## ⭐ Acknowledgments
 Special thanks to Andrew Ng and Younes Bensouda Mourri for designing such an amazing specialization and labs.
+
+
 
 ## 🏷️ Tags
 #NaturalLanguageProcessing #DeepLearning #NLP #Coursera #DeepLearningAI
