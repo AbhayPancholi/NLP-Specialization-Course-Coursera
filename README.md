@@ -67,3 +67,19 @@ git clone https://github.com/yourusername/nlp-specialization-labs.git
 [Coursera: NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
 
 [DeepLearning.AI](https://www.deeplearning.ai/)
+
+
+## 📝 License
+This repository is for educational purposes only. Please refrain from sharing or submitting these solutions as your own work in the NLP Specialization.
+
+## 📧 Contact
+If you have any questions or suggestions, feel free to reach out:
+
+Email: abhaynagendrapancholi@gmail.com
+GitHub: [Click Here](https://github.com/AbhayPancholi)
+
+## ⭐ Acknowledgments
+Special thanks to Andrew Ng and Younes Bensouda Mourri for designing such an amazing specialization and labs.
+
+## 🏷️ Tags
+#NaturalLanguageProcessing #DeepLearning #NLP #Coursera #DeepLearningAI
