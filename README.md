@@ -65,4 +65,5 @@ git clone https://github.com/yourusername/nlp-specialization-labs.git
 
 ## 🌐 Resources
 [Coursera: NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
 [DeepLearning.AI](https://www.deeplearning.ai/)
