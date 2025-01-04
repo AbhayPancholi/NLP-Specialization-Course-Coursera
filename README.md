@@ -47,3 +47,22 @@ The repository is organized as follows:
 - NumPy and Pandas: For numerical and data manipulation tasks.
 - Matplotlib: For visualizations.
 - TensorFlow and Keras: For deep learning and sequence modeling tasks.
+
+## 📋 Topics Covered
+- Text Preprocessing: Tokenization, stemming, lemmatization.
+- Word Embeddings: Techniques like word2vec, GloVe.
+- Probabilistic Models: Hidden Markov Models (HMMs), Viterbi algorithm, POS tagging, and Named Entity Recognition (NER).
+- Sequence Models: Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks.
+- Attention Mechanisms: Sequence-to-sequence models, transformers.
+
+## 🚀 How to Use
+- Clone the repository
+```plaintext
+git clone https://github.com/yourusername/nlp-specialization-labs.git
+```
+- Navigate to the specific course and week to access the lab files.
+- Follow the instructions in each lab notebook to complete the assignments.
+
+## 🌐 Resources
+[Coursera: NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+[DeepLearning.AI](https://www.deeplearning.ai/)
